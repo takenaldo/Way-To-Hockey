@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 801c66fcf09dd8e478484af064569f4d
+  m_SerializeEntries:
+  - m_GUID: dd0be0347da0ebb4ab80e6591e636847
+    m_Address: LEVEL 2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 06c218e1797632748883a35b5688e8d0
+    m_Address: LEVEL 3 (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: e6439455647111e4b994109afa8b0e80
+    m_Address: LEVEL 7
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 8705067c65bf0c242b062ce2d19b7753
+    m_Address: LEVEL 8
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 3b090fddb30ef4243b0dbe2617ebcf2d
+    m_Address: LEVEL 9
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 31afb0c131f36de49982f8f5195ddf70
+    m_Address: btnPlay
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 9b372c0b6b9748c4bbe1ef4e9025d528
+    m_Address: btnLvls
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 92225403c93683b4ab7cc11347fae432
+    m_Address: btnFacts
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 8aa49dc0717369c4bac58e4d8be04b06
+    m_Address: btnInfo
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 6160a6dea7c5f23469bae787dc250730
+    m_Address: USA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 5908f6f3304b6a8408bef8c9f223e3fc
+    m_Address: LEVELS
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 3a699ad45a387ce40bf588bd0acdd025
+    m_Address: btnBack
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: c07fec37229ab914bb75f8210386ad94
+    m_Address: FACTS
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 918a1f7868b8c91489036b9705fd91c8
+    m_Address: Information
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: db93b135765d1e6459593646b6cb99fb
+    m_Address: F1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: a9370f89b2b4b9541bee38c3015302df
+    m_Address: f2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: d3e9d0df5ebf91c45b4afc45fadb92be
+    m_Address: f3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 5377ff0177415344da06ad5d6da3b896
+    m_Address: f4
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 50bdcb32cd5c7e94885bf255f1946f1b
+    m_Address: f5
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: e1afedf8581536a4b9b8cc94a7bb0786
+    m_Address: f6
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 258d9666b72130c46a4c2f54d7ccc9d1
+    m_Address: f7
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 25986005ded81db4e906150aa5770f49
+    m_Address: f9
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: b59d6c2548e46fe4784b2edf3ea8cc77
+    m_Address: f8
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: b9ba2ca9101519546822ec7875cad252
+    m_Address: LEVEL 6 (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 40a752c3897e0854b8ec0012ab8b8d53
+    m_Address: LEVEL 5
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 41d6ea9c2e0997e4f94e2b633e09c31c
+    m_Address: LEVEL 4
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: d1b7555d8eaa9ab4ba716286f966f9c4
+    m_Address: LEVEL 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: a26acbd702c389e42bc51f5f427949b6
+    m_Address: PAUSE (3)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: f5e6a13acbc12b44ea1defb8643b6741, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5df906ecffca2304c9941c2d364ea331, type: 2}
+    - {fileID: 11400000, guid: bc3b1b9e7bbcf3c41b994fd25e0c8835, type: 2}

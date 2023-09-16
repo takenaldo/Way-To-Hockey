@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Asset Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Asset Table
+  m_TableCollectionNameGuidString: 49b73dc7cbf49e8449711cc0647db55f
+  m_Entries:
+  - m_Id: 255840563200
+    m_Key: lvvv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2400044265472
+    m_Key: lvl3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3714442670080
+    m_Key: lvl7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4128655355904
+    m_Key: lvl8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4520726310912
+    m_Key: lvl9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5667881037824
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5914409644032
+    m_Key: levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6040402341888
+    m_Key: facts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6179489656832
+    m_Key: info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6393864728576
+    m_Key: lang icon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10516043476992
+    m_Key: lvlsss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10789818281984
+    m_Key: back1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11068886298624
+    m_Key: factsss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11510127079424
+    m_Key: bac  ss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12093730926592
+    m_Key: bg info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14461981765632
+    m_Key: dfcgvhb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15161054801920
+    m_Key: sdfgh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15321633730560
+    m_Key: asdfgh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15525841809408
+    m_Key: wer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15680762621952
+    m_Key: adsfbghj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15863869157376
+    m_Key: sdg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16029594497024
+    m_Key: sccs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16206698983424
+    m_Key: dfhgshcklsmcls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16368670420992
+    m_Key: asdfsfcdfgw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19092036202496
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19100282204160
+    m_Key: bhhhhhgh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20373450600448
+    m_Key: hgfghfg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20649259642880
+    m_Key: 555
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20926767378432
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20938117165056
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20948191883264
+    m_Key: lvvhjagsdjsdfv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21489261293568
+    m_Key: sfsfdf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22427418046464
+    m_Key: ru pause
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 3422637084767682585
+  m_KeyGenerator:
+    rid: 3422637084767682584
+  references:
+    version: 2
+    RefIds:
+    - rid: 3422637084767682584
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689319410965
+    - rid: 3422637084767682585
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 255840563200
+          m_TableCodes:
+          - ru
+          - en
+        - m_KeyId: 2400044265472
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 3714442670080
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 4128655355904
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 4520726310912
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 5667881037824
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 5914409644032
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 6040402341888
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 6179489656832
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 6393864728576
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 10516043476992
+          m_TableCodes:
+          - ru
+          - en
+        - m_KeyId: 10789818281984
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 11068886298624
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 11510127079424
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 12093730926592
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 14461981765632
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 15161054801920
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 15321633730560
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 15525841809408
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 15680762621952
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 15863869157376
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 16029594497024
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 16206698983424
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 16368670420992
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 19100282204160
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 20373450600448
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 20649259642880
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 20948191883264
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 21489261293568
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 22427418046464
+          m_TableCodes:
+          - en
+          - ru
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

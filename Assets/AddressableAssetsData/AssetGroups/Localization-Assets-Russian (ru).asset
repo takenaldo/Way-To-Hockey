@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Russian (ru)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Russian (ru)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ad18013b3064a8547a025f6011a7c932
+  m_SerializeEntries:
+  - m_GUID: 57bf97895da470342abc9d02bb44143c
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 2"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 1ec6af3280b265045848dc0c334a621f
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 3"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: c23fa3e60d1225a45867473f6fc80e3c
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 7"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 6d933245adf35d14bbdf9c4c6e42b12c
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 8"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: bab5621466d8eb449a182e604c1d5c68
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 9"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: f525391e240b82c44b819938ad286ae1
+    m_Address: ru play
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 3376197c133e3ed4185dc7f34f5a99af
+    m_Address: ru levels
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 3123885d1ab192d479e1f942f534fac3
+    m_Address: ru facts
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: c1d766167d419ef4ebda0bcdff5a0ee9
+    m_Address: ru info
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 9d818927d5f5a144f8640b610dc555a5
+    m_Address: RUSS
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: da81eee55f33de543ba15c3c46e32282
+    m_Address: ru back
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 5e3614a09d98d7440b9d81f7f7deef06
+    m_Address: ru facts (2)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: a79ae679dccd9d940bac09a118e84cc7
+    m_Address: ru info full
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: ee3a1f31e48ded44d8dcbead78138f54
+    m_Address: ru F1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 30954ab35a410ca48a209240a921639e
+    m_Address: ru f2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 1aab5d790183e054d9cb82213cacb502
+    m_Address: ru f3
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 30cccf0dc53c1484b9ef3494cf2c909d
+    m_Address: ru f4
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 17bbf0ff199b1064687634f866f7ded7
+    m_Address: ru f5
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: a512688f55f7f9b4f8cb2647f865050c
+    m_Address: ru f6
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: a775f6ebe371f5246a33ce38dbbd3a00
+    m_Address: ru f7
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 08975ce4e46476d4fb6e278c7ad872b4
+    m_Address: ru f9
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: f50516a7e559f6d4bba00a47b1b08308
+    m_Address: ru f8
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 78cc934ebd017804da2799e2d8f9120b
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 6"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 62fea42fa224def40a5cbc4ed61e4a4e
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 5"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 726e2e353617d1e49a9ae7d402de0635
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 4"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: a27e34937f318214f8a991204e3fbf69
+    m_Address: "\u0423\u0420\u041E\u0412\u0415\u041D\u042C 1"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 2c8ae3f66c7e67b44b3a43d0965a21d2
+    m_Address: ru pause
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 4dce27c031e61984c963a7d093617c59
+    m_Address: "\u0423\u0420\u041E\u0412\u041D\u0418"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: f5e6a13acbc12b44ea1defb8643b6741, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d178ef2a4dade794fac6a52f445e0d2d, type: 2}
+    - {fileID: 11400000, guid: b46ce86e28942b645807c8e90c987ef4, type: 2}
